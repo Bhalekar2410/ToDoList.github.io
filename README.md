@@ -1,6 +1,3 @@
-# ToDoList.github.io
-
-# To-Do-List
 
 ## A Simple To - Do Website!
 
